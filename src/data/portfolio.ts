@@ -73,8 +73,8 @@ export const PORTFOLIO_DATA = {
     { title: 'English Debate 2nd Winner City Level', image: '/certificates/Debate.jpg', pdf: '/certificates/Debate.jpg' }
   ],
   contact: {
-    email: 'ragil@example.com',
-    github: 'https://github.com/ragil',
-    linkedin: 'https://linkedin.com/in/ragil',
+    email: 'blind2seechnl@gmail.com',
+    github: 'https://github.com/rezufr',
+    linkedin: 'https://linkedin.com/in/Velzu',
   }
 };

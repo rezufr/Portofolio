@@ -24,7 +24,7 @@ export function Footer() {
         </a>
       </div>
       <p>
-        <a href="https://github.com/ragil" className="hover:text-teal-400 transition-colors">
+        <a href="https://github.com/rezufr" className="hover:text-teal-400 transition-colors">
           Built by Ragil Rifqi Fadhil Anwar
         </a>
       </p>
