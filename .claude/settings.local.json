@@ -7,7 +7,10 @@
       "Bash(npm run *)",
       "WebFetch(domain:portfolio-nzvh2o4ft-alfaths-projects.vercel.app)",
       "Bash(git init *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(gh repo *)",
+      "Bash(git *)"
     ]
   }
 }
